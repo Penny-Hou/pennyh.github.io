@@ -1,6 +1,6 @@
 ---
 title: "Peibin (Penny) Hou"
-image: images/lianyujun_2025.png
+image: images/Penny-Hou.JPG
 about:
   id: hero-heading
   template: trestles
